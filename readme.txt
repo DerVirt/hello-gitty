@@ -1,1 +1,1 @@
-Hello GITTY
+Hello GITTY! Nice to meet you! :-)
